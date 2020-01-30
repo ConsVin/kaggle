@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints/
+
+raw_sales_m.pickle
+sales_train.pkl
+sales_cv.pkl
+sales_test.pkl
+sales_train.pickle
